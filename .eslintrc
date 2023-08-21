@@ -1,0 +1,5 @@
+{
+	"extends": "eslint-config-egg",
+	"semicolon": "none",
+	"root": true
+}
